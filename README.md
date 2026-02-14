@@ -10,17 +10,17 @@ The workflow covers:
   
 The goal is to simulate a real-world analytics pipeline from raw data → insights → stakeholder-ready dashboards.
 
-###Data Exploration (SQL Editor)  
+### Data Exploration (SQL Editor)  
 - Understand the dataset and become familiar with the Databricks SQL environment.  
 
-###Visualization (Databricks Dashboards)
+### Visualization (Databricks Dashboards)
 -Convert SQL queries into meaningful visual insights.  
 
-###Business Dashboards (Databricks)
+### Business Dashboards (Databricks)
 - Sales Dashboard
 - Customer Dashboard
   
-  ###Features
+  ### Features
   - KPI cards
   - Time-series analysis
   - Category breakdowns
