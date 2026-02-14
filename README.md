@@ -14,7 +14,7 @@ The goal is to simulate a real-world analytics pipeline from raw data → insigh
 - Understand the dataset and become familiar with the Databricks SQL environment.  
 
 ### Visualization (Databricks Dashboards)
--Convert SQL queries into meaningful visual insights.  
+- Convert SQL queries into meaningful visual insights.  
 
 ### Business Dashboards (Databricks)
 - Sales Dashboard
