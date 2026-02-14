@@ -51,7 +51,7 @@ The goal is to simulate a real-world analytics pipeline from raw data → insigh
 <img width="1450" height="722" alt="Databricks analytics" src="https://github.com/user-attachments/assets/b6aa6ee8-2744-4b5f-b421-c3833cdf82d7" />
 
 ## Documentation 
-This notion link provides more previews of the project: 
+This notion link provides more previews of the project and deeper insight:   
 https://www.notion.so/3077e74ba6a380f98a34cf511c379afd?v=3077e74ba6a380c0b002000c197d9c1b&source=copy_link
   
 ## Conclusion
